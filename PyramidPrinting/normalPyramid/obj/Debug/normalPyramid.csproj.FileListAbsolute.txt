@@ -1,0 +1,12 @@
+D:\Games\С#Projects\ConsoleApplication1\normalPyramid\bin\Debug\normalPyramid.exe
+D:\Games\С#Projects\ConsoleApplication1\normalPyramid\bin\Debug\normalPyramid.pdb
+D:\Games\С#Projects\ConsoleApplication1\normalPyramid\obj\Debug\normalPyramid.csproj.AssemblyReference.cache
+D:\Games\С#Projects\ConsoleApplication1\normalPyramid\obj\Debug\normalPyramid.csproj.CoreCompileInputs.cache
+D:\Games\С#Projects\ConsoleApplication1\normalPyramid\obj\Debug\normalPyramid.exe
+D:\Games\С#Projects\ConsoleApplication1\normalPyramid\obj\Debug\normalPyramid.pdb
+D:\Games\С#Projects\PyramidPrinting\normalPyramid\bin\Debug\normalPyramid.exe
+D:\Games\С#Projects\PyramidPrinting\normalPyramid\bin\Debug\normalPyramid.pdb
+D:\Games\С#Projects\PyramidPrinting\normalPyramid\obj\Debug\normalPyramid.csproj.AssemblyReference.cache
+D:\Games\С#Projects\PyramidPrinting\normalPyramid\obj\Debug\normalPyramid.csproj.CoreCompileInputs.cache
+D:\Games\С#Projects\PyramidPrinting\normalPyramid\obj\Debug\normalPyramid.exe
+D:\Games\С#Projects\PyramidPrinting\normalPyramid\obj\Debug\normalPyramid.pdb

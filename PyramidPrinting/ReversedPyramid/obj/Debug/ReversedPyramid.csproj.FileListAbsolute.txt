@@ -1,0 +1,6 @@
+D:\Games\С#Projects\PyramidPrinting\ReversedPyramid\bin\Debug\ReversedPyramid.exe
+D:\Games\С#Projects\PyramidPrinting\ReversedPyramid\bin\Debug\ReversedPyramid.pdb
+D:\Games\С#Projects\PyramidPrinting\ReversedPyramid\obj\Debug\ReversedPyramid.csproj.AssemblyReference.cache
+D:\Games\С#Projects\PyramidPrinting\ReversedPyramid\obj\Debug\ReversedPyramid.csproj.CoreCompileInputs.cache
+D:\Games\С#Projects\PyramidPrinting\ReversedPyramid\obj\Debug\ReversedPyramid.exe
+D:\Games\С#Projects\PyramidPrinting\ReversedPyramid\obj\Debug\ReversedPyramid.pdb

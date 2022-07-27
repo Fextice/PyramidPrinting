@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "normalPyramid", "normalPyramid\normalPyramid.csproj", "{6AE3B4A3-1ED0-4B3A-853E-12861EA85E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedPyramid", "ReversedPyramid\ReversedPyramid.csproj", "{D5EF26CF-D373-4DE1-B99E-58A17F095354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rotatedPyramid", "rotatedPyramid\rotatedPyramid.csproj", "{0F811A6E-5992-42F1-8CD7-348E58A3E3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reversedRotatedPyramid", "reversedRotatedPyramid\reversedRotatedPyramid.csproj", "{5533C6CA-49F1-4440-B18A-1638A08CDBE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE3B4A3-1ED0-4B3A-853E-12861EA85E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE3B4A3-1ED0-4B3A-853E-12861EA85E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE3B4A3-1ED0-4B3A-853E-12861EA85E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE3B4A3-1ED0-4B3A-853E-12861EA85E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5EF26CF-D373-4DE1-B99E-58A17F095354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5EF26CF-D373-4DE1-B99E-58A17F095354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5EF26CF-D373-4DE1-B99E-58A17F095354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5EF26CF-D373-4DE1-B99E-58A17F095354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F811A6E-5992-42F1-8CD7-348E58A3E3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F811A6E-5992-42F1-8CD7-348E58A3E3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F811A6E-5992-42F1-8CD7-348E58A3E3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F811A6E-5992-42F1-8CD7-348E58A3E3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5533C6CA-49F1-4440-B18A-1638A08CDBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5533C6CA-49F1-4440-B18A-1638A08CDBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5533C6CA-49F1-4440-B18A-1638A08CDBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5533C6CA-49F1-4440-B18A-1638A08CDBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

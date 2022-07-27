@@ -1,0 +1,12 @@
+D:\Games\С#Projects\ConsoleApplication1\rotatedPyramid\bin\Debug\rotatedPyramid.exe
+D:\Games\С#Projects\ConsoleApplication1\rotatedPyramid\bin\Debug\rotatedPyramid.pdb
+D:\Games\С#Projects\ConsoleApplication1\rotatedPyramid\obj\Debug\rotatedPyramid.csproj.AssemblyReference.cache
+D:\Games\С#Projects\ConsoleApplication1\rotatedPyramid\obj\Debug\rotatedPyramid.csproj.CoreCompileInputs.cache
+D:\Games\С#Projects\ConsoleApplication1\rotatedPyramid\obj\Debug\rotatedPyramid.exe
+D:\Games\С#Projects\ConsoleApplication1\rotatedPyramid\obj\Debug\rotatedPyramid.pdb
+D:\Games\С#Projects\PyramidPrinting\rotatedPyramid\bin\Debug\rotatedPyramid.exe
+D:\Games\С#Projects\PyramidPrinting\rotatedPyramid\bin\Debug\rotatedPyramid.pdb
+D:\Games\С#Projects\PyramidPrinting\rotatedPyramid\obj\Debug\rotatedPyramid.csproj.AssemblyReference.cache
+D:\Games\С#Projects\PyramidPrinting\rotatedPyramid\obj\Debug\rotatedPyramid.csproj.CoreCompileInputs.cache
+D:\Games\С#Projects\PyramidPrinting\rotatedPyramid\obj\Debug\rotatedPyramid.exe
+D:\Games\С#Projects\PyramidPrinting\rotatedPyramid\obj\Debug\rotatedPyramid.pdb

@@ -1,0 +1,6 @@
+D:\Games\С#Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Games\С#Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Games\С#Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+D:\Games\С#Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+D:\Games\С#Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Games\С#Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
